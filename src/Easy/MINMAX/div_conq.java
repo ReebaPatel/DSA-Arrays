@@ -1,4 +1,4 @@
-package Easy;
+package Easy.MINMAX;
 
 public class div_conq {
     static class Pair{

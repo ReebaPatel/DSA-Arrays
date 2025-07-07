@@ -1,4 +1,4 @@
-package Easy;
+package Easy.MINMAX;
 
 public class pair_compar {
     static class Pair {

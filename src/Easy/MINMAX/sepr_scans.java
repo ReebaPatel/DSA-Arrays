@@ -1,4 +1,4 @@
-package Easy;
+package Easy.MINMAX;
 
 public class sepr_scans {
     public static int setmini(int[] A, int N){

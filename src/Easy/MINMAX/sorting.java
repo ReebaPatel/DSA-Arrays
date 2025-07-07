@@ -1,4 +1,4 @@
-package Easy;
+package Easy.MINMAX;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Easy;
+package Easy.MINMAX;
 
 public class linearSrch {
     static class Pair{

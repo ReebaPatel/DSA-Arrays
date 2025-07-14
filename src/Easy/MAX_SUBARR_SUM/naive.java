@@ -9,7 +9,7 @@ public class naive {
                 currSum += arr[j];
                 res = Math.max(res, currSum);
             }
-        }
+        }   
         return res;
     }
 

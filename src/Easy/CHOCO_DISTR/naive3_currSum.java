@@ -2,7 +2,7 @@ package Easy.CHOCO_DISTR;
 import java.util.ArrayList;
 import java.util.List;
 
-public class iterative2 {
+public class naive3_currSum {
     public static void chocolateDistribution(int[] nums, int m) {
         int n = nums.length;
         List<List<Integer>> subsets = new ArrayList<>();

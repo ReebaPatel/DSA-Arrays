@@ -2,7 +2,7 @@ package Easy.CHOCO_DISTR;
 
 import java.util.*;
 
-public class recursive_appr {
+public class naive2_recursive {
 
     static int bestDiff;
 

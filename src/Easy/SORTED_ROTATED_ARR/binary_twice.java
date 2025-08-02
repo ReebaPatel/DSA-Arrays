@@ -51,7 +51,7 @@ public class binary_twice {
         }
     }
     public static void main(String[] args) {
-        int array[] = {8, 9, 10, 0, 1, 2, 3, 4, };
+        int array[] = {8, 9, 10, 0, 1, 2, 3, 4};
         int key = 3;
         System.out.println(search(array, key));
 

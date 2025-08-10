@@ -1,9 +1,9 @@
-package Medium;
+package Medium.NEXTPERMUTATION;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class permutation {
+public class naive_permutation {
 
     // Function to generate all possible permutations
     static void generatePermutations(List<List<Integer>> res, int[] arr, int idx) {
